@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('Jogendras First Apply')
+st.title('Jogendras First App with the help of Mr Pratik')
 st.image("burger gif.gif")
 
 import random
